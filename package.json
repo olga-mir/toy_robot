@@ -27,6 +27,7 @@
     "inquirer": "^1.2.1"
   },
   "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^6.2.0"
   }
 }

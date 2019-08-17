@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/olga-mir/toy_robot.svg?branch=re-touch)](https://travis-ci.com/olga-mir/toy_robot)
 This was first submitted in 2016.
 I have updated some parts of it in 2019 for an experiment
 

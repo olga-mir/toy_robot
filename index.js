@@ -6,7 +6,7 @@ const PORT = 8080
 const HOST = '0.0.0.0'
 
 let response = {
-  myapplicaton: [{
+  myapplication: [{
     version: '1.0',
     lastcommitsha: 'abcdef01234567890',
     description: 'ciao come va'
