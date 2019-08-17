@@ -1,11 +1,7 @@
 {
   "name": "toy_robot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pre-interview coding question",
-  "main": "toy_robot.js",
-  "scripts": {
-    "test": "node toy_robot.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olga-mir/toy_robot.git"
@@ -15,6 +11,10 @@
     "node",
     "cli-app"
   ],
+  "main": "toy_robot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Olga Mirensky",
   "license": "ISC",
   "bugs": {

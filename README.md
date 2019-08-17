@@ -1,3 +1,6 @@
+This was first submitted in 2016.
+I have updated some parts of it in 2019 for an experiment
+
 # Toy Robot Simulator
 Coding interview exercise
 
