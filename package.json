@@ -13,7 +13,8 @@
   ],
   "main": "toy_robot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "mocha"
   },
   "author": "Olga Mirensky",
   "license": "ISC",
@@ -24,5 +25,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "inquirer": "^1.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
   }
 }
